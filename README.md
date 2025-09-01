@@ -42,4 +42,5 @@
 ---
 
 <!-- Snake game -->
-![Snake animation](https://github.com/SEUUSUARIO/SEUUSUARIO/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Carti-1/Carti-1/blob/output/dist/snake.svg)
+
