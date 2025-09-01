@@ -1,5 +1,8 @@
 name: Generate Snake
 
+permissions:
+  contents: write
+
 on:
   schedule: # Executa automaticamente a cada 12 horas
     - cron: "0 */12 * * *"
