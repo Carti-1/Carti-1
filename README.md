@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00CFFF&center=true&vCenter=true&width=500&lines=Estudante+de+Engenharia+da+Computação;Apaixonado+por+Programação;Sempre+aprendendo+novas+tecnologias)](https://git.io/typing-svg)
-
 <h1 align="center">Olá! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 🎓 Estudante de **Engenharia da Computação** - 3º semestre @ [SENAI CIMATEC](https://www.universidadesenaicimatec.edu.br)  
