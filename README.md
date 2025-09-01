@@ -15,7 +15,7 @@
 
 ## 📌 Projetos em destaque
 - 🔹 [Sistema de Gestão em C](https://github.com/Carti-1/sistema-gestao-c)  
-- 🔹 [Jogo Poker em C](https://github.com/Carti-1/snake-python)  
+- 🔹 [Jogo Poker em C](https://github.com/Carti-1/)  
 - 🔹 [Exercícios de Estruturas de Dados](https://github.com/Carti-1/estrutura-de-dados)  
 
 ---
@@ -36,7 +36,7 @@
 ---
 
 ## 📫 Onde me encontrar
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jo%C3%A3o-pedro-218435270/)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-218435270/)  
 [![Gmail](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:depgon110@gmail.com)  
 
 ---
