@@ -39,5 +39,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jo%C3%A3o-pedro-218435270/)  
 [![Gmail](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:depgon110@gmail.com)  
 
+---
+
 <!-- Snake game -->
 ![Snake animation](https://github.com/SEUUSUARIO/SEUUSUARIO/blob/output/github-contribution-grid-snake.svg)
