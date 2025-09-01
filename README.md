@@ -1,16 +1,39 @@
-## Hi there 👋
+## Olá!  
+🎓 Estudante de **Engenharia da Computação** - 3º semestre @ [SENAI CIMATEC](https://www.senaicimatec.com.br/)  
+💻 Interesse em: **Desenvolvimento de Software, Python, C, Java e IA**  
+🚀 Explorando também: **IoT, Estruturas de Dados**
 
-<!--
-**Carti-1/Carti-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🌱 Atualmente aprendendo
+- Estruturas de Dados em C  
+- Programação Orientada a Objetos em Java e Python 
+- Fundamentos de Inteligência Artificial  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📌 Projetos em destaque
+- 🔹 [Sistema de Gestão em C](https://github.com/Carti-1/sistema-gestao-c)  
+- 🔹 [Jogo Poker em Python](https://github.com/Carti-1/snake-python)  
+- 🔹 [Exercícios de Estruturas de Dados](https://github.com/Carti-1/estrutura-de-dados)  
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📊 Estatísticas do GitHub
+![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Carti-1&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carti-1&layout=compact&theme=radical)
+
+---
+
+## 📫 Onde me encontrar
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jo%C3%A3o-pedro-218435270/)  
+[![Gmail](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:depgon110@gmail.com)  
+
