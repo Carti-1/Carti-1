@@ -1,0 +1,30 @@
+name: Generate Snake
+
+on:
+  schedule: # Executa automaticamente a cada 12 horas
+    - cron: "0 */12 * * *"
+  workflow_dispatch: # Permite rodar manualmente
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v2
+
+      - name: Gerar Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Carti-1
+          outputs: dist/snake.svg
+
+      - name: Commit e push do Snake
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: github-actions
+          author_email: github-actions@github.com
+          message: "Atualiza animação do Snake"
+          add: "dist/snake.svg"
