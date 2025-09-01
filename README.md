@@ -1,4 +1,5 @@
-## Olá!  
+<h1 align="center">Olá! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+
 🎓 Estudante de **Engenharia da Computação** - 3º semestre @ [SENAI CIMATEC](https://www.universidadesenaicimatec.edu.br)  
 💻 Interesse em: **Desenvolvimento de Software, Python, C, Java e IA**  
 🚀 Explorando também: **IoT, Estruturas de Dados**
