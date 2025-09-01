@@ -1,5 +1,5 @@
 ## Olá!  
-🎓 Estudante de **Engenharia da Computação** - 3º semestre @ [SENAI CIMATEC](https://www.senaicimatec.com.br/)  
+🎓 Estudante de **Engenharia da Computação** - 3º semestre @ [SENAI CIMATEC](https://www.universidadesenaicimatec.edu.br)  
 💻 Interesse em: **Desenvolvimento de Software, Python, C, Java e IA**  
 🚀 Explorando também: **IoT, Estruturas de Dados**
 
