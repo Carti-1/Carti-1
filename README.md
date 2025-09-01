@@ -14,7 +14,7 @@
 
 ## 📌 Projetos em destaque
 - 🔹 [Sistema de Gestão em C](https://github.com/Carti-1/sistema-gestao-c)  
-- 🔹 [Jogo Poker em Python](https://github.com/Carti-1/snake-python)  
+- 🔹 [Jogo Poker em C](https://github.com/Carti-1/snake-python)  
 - 🔹 [Exercícios de Estruturas de Dados](https://github.com/Carti-1/estrutura-de-dados)  
 
 ---
