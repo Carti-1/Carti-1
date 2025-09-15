@@ -43,7 +43,3 @@
 [![Gmail](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:depgon110@gmail.com)  
 
 ---
-
-<!-- Snake game -->
-![Snake animation](https://github.com/Carti-1/Carti-1/blob/output/dist/snake.svg)
-
