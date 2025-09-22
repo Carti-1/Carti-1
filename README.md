@@ -14,7 +14,7 @@
 ---
 
 ## 📌 Projetos em destaque
-- 🔹 [Sistema de Gestão em C](https://github.com/Carti-1/sistema-gestao-c)  
+- 🔹 [Jogo Batalha Naval em Python](https://github.com/Carti-1/batalha-naval)  
 - 🔹 [Jogo Poker em C](https://github.com/Carti-1/)  
 - 🔹 [Exercícios de Estruturas de Dados](https://github.com/Carti-1/estrutura-de-dados)  
 
