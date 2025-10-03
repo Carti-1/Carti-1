@@ -13,11 +13,9 @@
 
 ---
 
-## 📌 Projetos em destaque
-- 🔹 [Jogo Batalha Naval em Python](https://github.com/Carti-1/batalha-naval)  
-- 🔹 [Jogo Poker em C](https://github.com/Carti-1/)  
-- 🔹 [Exercícios de Estruturas de Dados](https://github.com/Carti-1/estrutura-de-dados)  
-
+## 📌 Projeto em destaque
+- 🔹 [Clone Spotify Landing Page](https://github.com/Carti-1/Spotify-Landing-Page-Clone) 
+ 
 ---
 
 ## 💻 Tecnologias que uso
