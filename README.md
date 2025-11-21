@@ -14,7 +14,7 @@
 ---
 
 ## 📌 Projeto em destaque
-- 🔹 [Clone Spotify Landing Page](https://github.com/Carti-1/Spotify-Landing-Page-Clone)
+- 🔹 [RPG Terminal Quest](https://github.com/Carti-1/RPG-TerminalQuest)
 
   
  
