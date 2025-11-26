@@ -1,29 +1,67 @@
-<h1 align="center">João Pedro</h1>
+# João Pedro
+### Estudante de Engenharia da Computação | Desenvolvedor de Software em Formação
 
-🎓 Estudante de Engenharia da Computação – 3º semestre @ SENAI CIMATEC
+<div align="left">
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-218435270/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="mailto:depgon110@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+</div>
 
-💻 Focado em Desenvolvimento de Software, com experiência em Python, Java e fundamentos de IA
-🚀 Interesse adicional em IoT e Estruturas de Dados
+---
 
-💼 Sobre mim
+## 👨‍💻 Sobre Mim
+Atualmente no 3º semestre de **Engenharia da Computação** no [SENAI CIMATEC](https://www.universidadesenaicimatec.edu.br). Meu foco acadêmico e prático está no desenvolvimento de software robusto, com ênfase em **Python** e **Java**, explorando a interseção entre Orientação a Objetos, Estruturas de Dados e Inteligência Artificial.
 
-Desenvolvedor em formação, com projetos práticos voltados para lógica de programação, POO e experiências no terminal. Busco evoluir na construção de soluções eficientes e bem estruturadas, sempre aplicando boas práticas de código.
+Estou em busca de oportunidades de estágio onde eu possa aplicar conceitos de **Engenharia de Software** e **IoT** para resolver problemas reais.
 
-📌 Projeto em destaque
+---
 
-RPG Terminal Quest – Jogo de terminal voltado para lógica, organização e boas práticas
-🔗 https://github.com/Carti-1/RPG-TerminalQuest
+## 🛠 Arsenal Tecnológico
 
-🌱 Em aprendizado contínuo
+**Linguagens Principais:**
+<div style="display: inline_block">
+  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+</div>
 
-Estruturas de Dados
+<br>
 
-Programação Orientada a Objetos (Java/Python)
+**Ferramentas & IDEs:**
+<div style="display: inline_block">
+  <img align="center" alt="VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Eclipse" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg">
+</div>
 
-Fundamentos de Inteligência Artificial
+<br>
 
-🧰 Tecnologias e ferramentas
-<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" width="40"/> </p>
+**Áreas de Estudo Atual:**
+- 🧠 Estruturas de Dados Avançadas
+- 🤖 Fundamentos de Inteligência Artificial
+- 🔌 Internet das Coisas (IoT)
+
+---
+
+## 🚀 Projetos em Destaque
+
+### ⚔️ [RPG Terminal Quest](https://github.com/Carti-1/RPG-TerminalQuest)
+*Uma aplicação baseada em terminal focada na implementação de lógica de programação e POO.*
+- **Tecnologias:** Python/Java (Verifique qual a principal e deixe apenas ela aqui)
+- **Conceitos Aplicados:** Classes, Herança, Polimorfismo e Manipulação de Estado.
+- **Objetivo:** Demonstrar domínio sobre estruturas de controle e organização de código em um ambiente CLI interativo.
+
+---
+
+
+## 📊 Atividade no GitHub
+
+<div align="left">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Carti-1&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carti-1&layout=compact&theme=radical"/>
+</div>
 
 ## 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-218435270/)  
