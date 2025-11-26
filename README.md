@@ -15,8 +15,6 @@
 ## 👨‍💻 Sobre Mim
 Atualmente no 3º semestre de **Engenharia da Computação** no [SENAI CIMATEC](https://www.universidadesenaicimatec.edu.br). Meu foco acadêmico e prático está no desenvolvimento de software robusto, com ênfase em **Python** e **Java**, explorando a interseção entre Orientação a Objetos, Estruturas de Dados e Inteligência Artificial.
 
-Estou em busca de oportunidades de estágio onde eu possa aplicar conceitos de **Engenharia de Software** e **IoT** para resolver problemas reais.
-
 ---
 
 ## 🛠 Arsenal Tecnológico
@@ -42,16 +40,6 @@ Estou em busca de oportunidades de estágio onde eu possa aplicar conceitos de *
 - 🧠 Estruturas de Dados Avançadas
 - 🤖 Fundamentos de Inteligência Artificial
 - 🔌 Internet das Coisas (IoT)
-
----
-
-## 🚀 Projetos em Destaque
-
-### ⚔️ [RPG Terminal Quest](https://github.com/Carti-1/RPG-TerminalQuest)
-*Uma aplicação baseada em terminal focada na implementação de lógica de programação e POO.*
-- **Tecnologias:** Python/Java (Verifique qual a principal e deixe apenas ela aqui)
-- **Conceitos Aplicados:** Classes, Herança, Polimorfismo e Manipulação de Estado.
-- **Objetivo:** Demonstrar domínio sobre estruturas de controle e organização de código em um ambiente CLI interativo.
 
 ---
 
