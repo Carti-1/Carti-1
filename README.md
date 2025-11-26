@@ -50,9 +50,3 @@ Atualmente no 3º semestre de **Engenharia da Computação** no [SENAI CIMATEC](
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Carti-1&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carti-1&layout=compact&theme=radical"/>
 </div>
-
-## 📫 Contato
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-218435270/)  
-[![Gmail](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:depgon110@gmail.com)  
-
----
