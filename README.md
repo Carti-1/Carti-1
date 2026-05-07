@@ -39,7 +39,7 @@ Atualmente no 4º semestre de **Engenharia da Computação** no [SENAI CIMATEC](
 **Áreas de Estudo Atual:**
 - 🧠 Estruturas de Dados Avançadas
 - 🤖 Fundamentos de Inteligência Artificial
-- 🔌 Internet das Coisas (IoT)
+- 🔌 Modelagem de Dados
 
 ---
 
