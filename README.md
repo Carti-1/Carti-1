@@ -13,7 +13,7 @@
 ---
 
 ## 👨‍💻 Sobre Mim
-Atualmente no 3º semestre de **Engenharia da Computação** no [SENAI CIMATEC](https://www.universidadesenaicimatec.edu.br). Meu foco acadêmico e prático está no desenvolvimento de software robusto, com ênfase em **Python** e **Java**, explorando a interseção entre Orientação a Objetos, Estruturas de Dados e Inteligência Artificial.
+Atualmente no 4º semestre de **Engenharia da Computação** no [SENAI CIMATEC](https://www.universidadesenaicimatec.edu.br). Meu foco acadêmico e prático está no desenvolvimento de software robusto, com ênfase em **Python** e **Java**, explorando a interseção entre Orientação a Objetos, Estruturas de Dados e Inteligência Artificial.
 
 ---
 
