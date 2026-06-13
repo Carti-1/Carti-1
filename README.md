@@ -51,8 +51,8 @@ Atualmente no 4º semestre de **Engenharia da Computação** no [SENAI CIMATEC](
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carti-1&layout=compact&theme=radical"/>
 </div>
 
-<div align="center">
+##<div align="center">
   <a href="https://github.com/Carti-1">
     <img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=Carti-1&theme=tokyonight" alt="GitHub Stats Terminal" />
   </a>
-</div>
+</div>##
