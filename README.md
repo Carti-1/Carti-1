@@ -52,6 +52,6 @@ Atualmente no 4º semestre de **Engenharia da Computação** no [SENAI CIMATEC](
 </div>
 
 <div>
-    [![GitHub Stats Terminal](https://github-stats-terminal-style-five.vercel.app/api/stats?Carti-1=Carti-1&theme=tokyonight)](https://github.com/Carti-1)
+    [![GitHub Stats Terminal](https://github-stats-terminal-style-five.vercel.app/api/stats?username=Carti-1&theme=tokyonight)](https://github.com/Carti-1)
 </div>
   
