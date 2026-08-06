@@ -37,7 +37,7 @@ Atualmente no 5º semestre de **Engenharia da Computação** no [SENAI CIMATEC](
 <br>
 
 **Áreas de Estudo Atual:**
-- 🧠 Estruturas de Dados Avançadas
+- 🧠 Alta Qualidade de Software
 - 🤖 Fundamentos de Inteligência Artificial
 - 🔌 Modelagem de Dados
 
