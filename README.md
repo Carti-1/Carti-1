@@ -40,6 +40,7 @@ Atualmente no 5º semestre de **Engenharia da Computação** no [SENAI CIMATEC](
 - 🧠 Alta Qualidade de Software
 - 🤖 Fundamentos de Inteligência Artificial
 - 🔌 Modelagem de Dados
+- ⚙️ Full Stack
 
 ---
 
