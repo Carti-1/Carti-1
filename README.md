@@ -43,11 +43,3 @@ Atualmente no 5º semestre de **Engenharia da Computação** no [SENAI CIMATEC](
 - ⚙️ Full Stack
 
 ---
-
-
-## 📊 Atividade no GitHub
-
-<div align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Carti-1&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carti-1&layout=compact&theme=radical"/>
-</div>
