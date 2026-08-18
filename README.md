@@ -2,7 +2,7 @@
 ### Estudante de Engenharia da Computação | Desenvolvedor de Software em Formação
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-218435270/" target="_blank">
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-silva-218435270/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
   <a href="mailto:depgon110@gmail.com">
